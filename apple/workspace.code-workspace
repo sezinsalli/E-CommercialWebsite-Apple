@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..Yeni klasör (8)"
+		},
+		{
+			"path": "..\\..\\..AppData\\..Desktop\\Youtube"
+		},
+		{
+			"path": "..\\..\\..AppData\\..Desktop\\Apple"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "REACT101"
+    }
+}
